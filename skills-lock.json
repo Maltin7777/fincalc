@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "skills": {
+    "shadcn": {
+      "source": "shadcn-ui/ui",
+      "sourceType": "github",
+      "skillPath": "skills/shadcn/SKILL.md",
+      "computedHash": "e749ac6c93d5135618c2c5a11d3ca8eef26ee5a4052c65e94f5df573c7f684b1"
+    },
+    "skill-creator": {
+      "source": "anthropics/skills",
+      "sourceType": "github",
+      "skillPath": "skills/skill-creator/SKILL.md",
+      "computedHash": "7e3c9cd74e9e2b4828527a857170e86310f2dab5ea8030a9043df2c7e6c88857"
+    }
+  }
+}
